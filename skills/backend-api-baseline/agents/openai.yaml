@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend API Baseline"
+  short_description: "Scaffold Python backend API features fast."
+  default_prompt: "Use this skill to scaffold or extend a small Python backend feature with routes, services, models, and tests."
